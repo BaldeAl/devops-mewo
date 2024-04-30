@@ -1,0 +1,12 @@
+site_name: Documentation
+
+repo_name: NiniMewo/devops-mewo
+repo_url: https://github.com/NiniMewo/devops-mewo
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - meta
